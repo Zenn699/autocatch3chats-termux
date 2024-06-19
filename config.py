@@ -1,6 +1,7 @@
 # obrigatorios
-user_token = ""
-catch_id = ""
+user_token = "MTEzODgwMTU0MDU2NDUzMzMwMQ.GC42KY.gVyl7X55lrYRnOdOqpVPy-rumvxHXci6-HfMAk"
+
+catch_id = "1250458229922598922"
 prefix = "!/"
 
 # opcionais 
